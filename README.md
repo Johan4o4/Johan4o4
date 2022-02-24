@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 My name is **Johan Adi**.\
-This is my Linkedin [Linkedin](https://www.linkedin.com/in/gilang-adhan/) feel free to connect.
+This is my Linkedin [Linkedin](https://id.linkedin.com/in/johan-adi-pradana) feel free to connect.
 
 <p align="left">
 <a href="https://github.com/Johan4o4">
